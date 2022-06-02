@@ -10,5 +10,5 @@ The protocol is structured to allow easy integration with third parties and serv
 The governance is structured to attract highly valuable professionals in the approval of projects, certificate submissions and events.
 
 
-[PPT presentation](https://github.com/Cripcla/Decentralized-Certificate-Issuer/raw/main/Presentation.pptx)
+[PPT presentation](https://github.com/Cripcla/Decentralized-Certificate-Issuer/raw/main/Presentation.pptx)  
 [Video presentation](https://www.youtube.com/watch?v=mxJq7MzH07A)
