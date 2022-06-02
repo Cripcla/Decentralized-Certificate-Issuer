@@ -7,6 +7,8 @@ This will enable learners to create their own educational portfolio in which the
 
 The protocol is structured to allow easy integration with third parties and service providers to display user portfolios and certification in their applications without relying on centralized APIs.
 
-The governance is structured to attract highly valuable professionals in the approval of projects, certificate submissions and events. 
+The governance is structured to attract highly valuable professionals in the approval of projects, certificate submissions and events.
 
+
+[PPT presentation](https://github.com/Cripcla/Decentralized-Certificate-Issuer/raw/main/Presentation.pptx)
 [Video presentation](https://www.youtube.com/watch?v=mxJq7MzH07A)
